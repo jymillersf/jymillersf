@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning Snowflake Internals
 - 💞️ I’m looking to collaborate on MLOps
-- 📫 How to reach me johny.miller@snowflake.com
+
 
 <!---
 jymillersf/jymillersf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
